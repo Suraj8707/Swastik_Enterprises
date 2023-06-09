@@ -26,7 +26,10 @@ Sakinaka Andheri East Mumbai-400072</p>
         <div className="app__footer-links_icons">
           <FiFacebook />
           <FiTwitter />
+          <a href='https://www.instagram.com/swastikenterprises252/'> 
+
           <FiInstagram />
+          </a>
         </div>
       </div>
 
