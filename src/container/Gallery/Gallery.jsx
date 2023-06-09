@@ -4,6 +4,7 @@ import { BsInstagram, BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
 import './Gallery.css';
+import { Link } from 'react-router-dom';
 
 const Gallery = () => {
   const scrollRef = React.useRef(null);
@@ -31,7 +32,9 @@ const Gallery = () => {
           {[images.gallery01, images.gallery02, images.gallery03, images.gallery04, images.gallery05, images.gallery06].map((image, index) => (
             <div className="app__gallery-images_card flex__center" key={`gallery_image-${index + 1}`}>
               <img src={image} alt="gallery_image" />
+              <a href='https://www.instagram.com/swastikenterprises252/'>
               <BsInstagram className="gallery__image-icon" />
+              </a>
             </div>
           ))}
         </div>

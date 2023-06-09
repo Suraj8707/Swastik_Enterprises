@@ -55,6 +55,7 @@
     opacity: 0;
     transition: .5s ease;
     cursor: pointer;
+    left: 130px;
 }
 
 .app__gallery-images_card img {
