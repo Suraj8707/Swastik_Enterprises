@@ -1,13 +1,13 @@
 <svg width="76" height="28" viewBox="0 0 76 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-<line y1="14.5" x2="47" y2="14.5" stroke="#EFE1B3"/>
-<line x1="61.5" y1="1" x2="61.5" y2="27" stroke="#EBE1B3" stroke-opacity="0.96"/>
-<line x1="61" y1="1.5" x2="75" y2="1.5" stroke="#EBE1B3" stroke-opacity="0.96"/>
-<line x1="62" y1="26.5" x2="48" y2="26.5" stroke="#EBE1B3" stroke-opacity="0.96"/>
-<line x1="75" y1="14.5" x2="48" y2="14.5" stroke="#EBE1B3" stroke-opacity="0.96"/>
-<line x1="74.5" y1="14" x2="74.5" y2="27" stroke="#EBE1B3" stroke-opacity="0.96"/>
-<line x1="48.5" y1="14" x2="48.5" y2="1" stroke="#EBE1B3" stroke-opacity="0.96"/>
-<line x1="74.6464" y1="1.64645" x2="75.6464" y2="0.646447" stroke="#EBE1B3" stroke-opacity="0.96"/>
-<line x1="74.3536" y1="26.6464" x2="75.3536" y2="27.6464" stroke="#EBE1B3" stroke-opacity="0.96"/>
-<line x1="48.6464" y1="1.35355" x2="47.6464" y2="0.353553" stroke="#EBE1B3" stroke-opacity="0.96"/>
-<line x1="48.3536" y1="26.3536" x2="47.3536" y2="27.3536" stroke="#EBE1B3" stroke-opacity="0.96"/>
+<line y1="14.5" x2="47" y2="14.5" stroke="#FDE598"/>
+<line x1="61.5" y1="1" x2="61.5" y2="27" stroke="#F8E697" stroke-opacity="0.96"/>
+<line x1="61" y1="1.5" x2="75" y2="1.5" stroke="#F8E697" stroke-opacity="0.96"/>
+<line x1="62" y1="26.5" x2="48" y2="26.5" stroke="#F8E697" stroke-opacity="0.96"/>
+<line x1="75" y1="14.5" x2="48" y2="14.5" stroke="#F8E697" stroke-opacity="0.96"/>
+<line x1="74.5" y1="14" x2="74.5" y2="27" stroke="#F8E697" stroke-opacity="0.96"/>
+<line x1="48.5" y1="14" x2="48.5" y2="1" stroke="#F8E697" stroke-opacity="0.96"/>
+<line x1="74.6464" y1="1.64645" x2="75.6464" y2="0.646447" stroke="#F8E697" stroke-opacity="0.96"/>
+<line x1="74.3536" y1="26.6464" x2="75.3536" y2="27.6464" stroke="#F8E697" stroke-opacity="0.96"/>
+<line x1="48.6464" y1="1.35355" x2="47.6464" y2="0.353553" stroke="#F8E697" stroke-opacity="0.96"/>
+<line x1="48.3536" y1="26.3536" x2="47.3536" y2="27.3536" stroke="#F8E697" stroke-opacity="0.96"/>
 </svg>
