@@ -21,6 +21,15 @@ const wines = [
     title: 'Surface & Fixtures',
 
   },
+  {
+    title: 'Wooden flooring'
+  },
+  {
+    title: 'Glass Door with Glalss Partition'
+  },
+  {
+    title: 'PVC Floring',
+  }
 ];
 
 const cocktails = [
@@ -41,9 +50,18 @@ const cocktails = [
 
   },
   {
+    title: 'Roller blind',
+  },
+  {
+    title: 'Sun control film',
+  },
+  {
     title: 'Many More',
 
   },
+  {
+    title: 'SPC Flooring'
+  }
 ];
 
 const awards = [
@@ -69,4 +87,4 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { wines, cocktails };
